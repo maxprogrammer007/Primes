@@ -1,0 +1,10 @@
+# IDE
+.idea/
+
+# Gradle
+.gradle/
+gradle/
+
+# Build folders from local tests
+build/
+kotlin-js-store/
